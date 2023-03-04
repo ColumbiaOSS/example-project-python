@@ -1,6 +1,9 @@
 # example-project-python
 Example python project
 
+[![Build Status](https://github.com/ColumbiaOSS/example-project-python/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/ColumbiaOSS/example-project-python/actions?query=workflow%3A%22Build+Status%22)
+[![codecov](https://codecov.io/gh/ColumbiaOSS/example-project-python/branch/main/graph/badge.svg)](https://codecov.io/gh/ColumbiaOSS/example-project-python)
+
 ## Details
 This project is a pure python project using modern tooling. It uses a `Makefile` as a command registry, with the following commands:
 - `make`: list available commands
